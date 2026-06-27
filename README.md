@@ -34,5 +34,5 @@ Images/
 README.md
 
 ## 👤 Author
-Hari
+Harika Chinna Balappa
 
